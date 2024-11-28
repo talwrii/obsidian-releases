@@ -12514,7 +12514,7 @@
         "author": "Charl Fourie",
         "description": "Utilities for folder-based journaling.",
         "repo": "chfourie/obsidian-journal-folder"
-    },
+    },o
     {
         "id": "litegallery",
         "name": "Lite Gallery",
@@ -14307,12 +14307,19 @@
     "description": "Syncs your setlist.fm attended concerts.",
     "repo": "fleker/setlist-for-obsidian"
   },
-    {
+  {
     "id": "mass-create",
     "name": "Mass Create",
     "author": "vellikhor",
     "description": "Create large quantities of notes easily at one time.",
     "repo": "vellikhor/mass-create"
-    }
+  },
+  {
+    "id": "header-navigation",
+    "name": "Header Navigation",
+    "author": "readwithai",
+    "description": "Quickly jump between headers and toggle folding",
+    "repo": "talwrii/obsidian-header-navigation"
+  }
 ]
 
